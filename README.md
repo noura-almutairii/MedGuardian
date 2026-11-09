@@ -37,3 +37,6 @@ Project Type
 Graduation Project
 
 ## Application Screenshots
+![MedGuardian Screen 1](IMG_9016.jpeg)
+
+![MedGuardian Screen 2](IMG_9017.jpeg)
